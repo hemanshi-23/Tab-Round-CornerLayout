@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TabRoundCornerLayout" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.TabRoundCornerLayout" parent="Base.Theme.TabRoundCornerLayout" />
+    
+    <style name="MyCustomText" parent="@android:style/TextAppearance.Medium">
+        <item name="fontFamily">@font/crimson_text_semibold</item>
+    </style>
+</resources>
